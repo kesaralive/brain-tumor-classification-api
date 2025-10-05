@@ -2,6 +2,8 @@
 
 This guide explains how to run the FastAPI project locally using **Poetry**.
 
+Dataset link: https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?resource=download
+
 ## Prerequisites
 
 1. **Python 3.11+** installed
